@@ -1,5 +1,5 @@
 """
-WSGI config for kursovaya project.
+WSGI config for CS50Shop project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kursovaya.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'CS50Shop.settings')
 
 application = get_wsgi_application()
