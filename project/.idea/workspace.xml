@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e41129a1-1df7-4247-af12-1eceb0c24e62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/CS50Shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/CS50Shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/static/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/static/css/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +24,14 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="main" />
+        <entry key="$PROJECT_DIR$/.." value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -49,6 +47,13 @@
         &quot;number&quot;: 1
       },
       &quot;lastSeen&quot;: 1717283643661
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOL7zVgs5xNXxl&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1717287355169
     }
   ]
 }</component>
@@ -56,6 +61,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Marktteoman/djangoKursovaya.git&quot;,
     &quot;accountId&quot;: &quot;82c30b8b-3f59-40b6-be94-2d7297cdea7d&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Marktteoman&quot;,
+    &quot;repository&quot;: &quot;djangoKursovaya&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -75,11 +90,13 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -101,7 +118,13 @@
       <updated>1717283551676</updated>
       <workItem from="1717283552877" duration="2982000" />
       <workItem from="1717286585049" duration="7000" />
-      <workItem from="1717286629123" duration="462000" />
+      <workItem from="1717286629123" duration="2003000" />
+      <workItem from="1717516035013" duration="1555000" />
+      <workItem from="1717590880957" duration="1349000" />
+      <workItem from="1718042144522" duration="124000" />
+      <workItem from="1718042283972" duration="64000" />
+      <workItem from="1718286663088" duration="4260000" />
+      <workItem from="1718405178252" duration="1624000" />
     </task>
     <servers />
   </component>

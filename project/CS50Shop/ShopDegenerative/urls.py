@@ -1,8 +1,10 @@
 from django.urls import path
-from .views import PanCreateView, PanIpdateView, PaDeleteView, profile_view
+from .views import *
 
 app_name = 'ShopDegenerative'
 
 urlpatterns = [
-    path('profile', profile_view, name='profile'),
+    path('', index),
+    path('cats/<int:catId>/', categories)
 ]
+

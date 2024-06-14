@@ -5,19 +5,8 @@ from django.shortcuts import render
 # Create your views here.
 
 def index(request):
-    return HttpResponse("Hello World")
+    return HttpResponse('Старинца приложения магазина')
 
-def profile_view(request):
-    return render(request, 'profile.html')
+def categories(request, catId):
+    return HttpResponse(f'Категории приложения {catId}')
 
-
-class PanCreateView:
-    pass
-
-
-class PanIpdateView:
-    pass
-
-
-class PaDeleteView:
-    pass
