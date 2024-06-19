@@ -1,8 +1,14 @@
 {% extends "ShopDegenerative/base.html" %}
+{% load humanize %}
 {% load static %}
 
 {% block content %}
-    <h1>
-        This detail page for: {{ item.name }}
-    </h1>
+	<div class="flex p-10 w-full h-200">
+		<img class="w-1/3" src="{{item.image.url}}" alt="itemphoto">
+		<div class="w-2/3 text-xl ml-10 mt-5">
+			<p class="mt-5 text-green-500">{{ item.name }}</p>
+			<p class="mt-5">{{ item.price | intcomma }}</p>
+			<p class="mt-5">{{ item.description }}</p>
+		</div>
+	</div>
 {% endblock content %}
