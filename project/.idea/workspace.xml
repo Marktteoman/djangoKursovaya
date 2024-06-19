@@ -7,12 +7,13 @@
     <list default="true" id="e41129a1-1df7-4247-af12-1eceb0c24e62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/CS50Shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/CS50Shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/static/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/static/css/profile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../вьюхи/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../вьюхи/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,9 @@
     &quot;repository&quot;: &quot;djangoKursovaya&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/django/db/migrations/migration.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -90,13 +94,14 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -124,7 +129,11 @@
       <workItem from="1718042144522" duration="124000" />
       <workItem from="1718042283972" duration="64000" />
       <workItem from="1718286663088" duration="4260000" />
-      <workItem from="1718405178252" duration="1624000" />
+      <workItem from="1718405178252" duration="1932000" />
+      <workItem from="1718485586946" duration="2868000" />
+      <workItem from="1718557267302" duration="239000" />
+      <workItem from="1718628058166" duration="3815000" />
+      <workItem from="1718653284623" duration="605000" />
     </task>
     <servers />
   </component>
