@@ -39,12 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.humanize',
-<<<<<<< HEAD
     'ShopDegenerative',
     'users',
-=======
-    'ShopDegenerative.apps.ShopdegenerativeConfig',
->>>>>>> parent of 471bda0 (112)
 ]
 
 MIDDLEWARE = [
