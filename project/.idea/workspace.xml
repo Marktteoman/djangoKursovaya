@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e41129a1-1df7-4247-af12-1eceb0c24e62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/CS50Shop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/templates/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/ShopDegenerative/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS50Shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../вьюхи/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../вьюхи/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/users/templates/users/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50Shop/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50Shop/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +130,7 @@
       <workItem from="1718557267302" duration="239000" />
       <workItem from="1718628058166" duration="3815000" />
       <workItem from="1718653284623" duration="605000" />
+      <workItem from="1718833748491" duration="67000" />
     </task>
     <servers />
   </component>
